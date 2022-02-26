@@ -1,0 +1,26 @@
+ 
+
+*{
+  background-color:black;
+  color: bisque;
+  text-align: center;
+}
+
+.section-div{
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  justify-items: center;
+
+}
+
+.section-div section{
+  margin-left: 18px;
+  padding: 5px;
+ 
+
+}
+li{
+  list-style: none;
+}
